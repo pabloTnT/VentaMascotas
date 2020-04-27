@@ -18,12 +18,13 @@ namespace Datos
             int ValorVenta = CalculoValorVenta(ValorNeto, ValorDescuento);
             int ValorIva = Convert.ToInt32(ValorVenta * PorcentajeIva);
             int TotalVenta = Convert.ToInt32(ValorIva+ValorVenta);
-            Console.WriteLine("<-------*------->");
+            Console.WriteLine("<---Valores de Venta--->");
             Console.WriteLine("Precio Neto: " + ValorNeto);
             Console.WriteLine("Descuento: " + ValorDescuento);
             Console.WriteLine("Precio Venta: " + ValorVenta);
             Console.WriteLine("Iva: " + ValorIva);
             Console.WriteLine("Total Venta: " + TotalVenta);
+            Console.WriteLine("----***----");
         }
         public static int CalculoValorVenta(int ValorNeto, int ValorDescuento)
         {
