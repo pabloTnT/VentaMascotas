@@ -1,0 +1,9 @@
+C:\Users\PabloTnT\source\repos\VentaMascotas\Datos\bin\Debug\Datos.dll
+C:\Users\PabloTnT\source\repos\VentaMascotas\Datos\bin\Debug\Datos.pdb
+C:\Users\PabloTnT\source\repos\VentaMascotas\Datos\bin\Debug\Modelos.dll
+C:\Users\PabloTnT\source\repos\VentaMascotas\Datos\bin\Debug\Modelos.pdb
+C:\Users\PabloTnT\source\repos\VentaMascotas\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\PabloTnT\source\repos\VentaMascotas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\PabloTnT\source\repos\VentaMascotas\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\PabloTnT\source\repos\VentaMascotas\Datos\obj\Debug\Datos.dll
+C:\Users\PabloTnT\source\repos\VentaMascotas\Datos\obj\Debug\Datos.pdb

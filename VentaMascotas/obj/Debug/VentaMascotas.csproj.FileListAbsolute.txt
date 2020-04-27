@@ -1,0 +1,12 @@
+C:\Users\PabloTnT\source\repos\VentaMascotas\VentaMascotas\obj\Debug\VentaMascotas.csprojAssemblyReference.cache
+C:\Users\PabloTnT\source\repos\VentaMascotas\VentaMascotas\obj\Debug\VentaMascotas.csproj.CoreCompileInputs.cache
+C:\Users\PabloTnT\source\repos\VentaMascotas\VentaMascotas\bin\Debug\VentaMascotas.exe.config
+C:\Users\PabloTnT\source\repos\VentaMascotas\VentaMascotas\bin\Debug\VentaMascotas.exe
+C:\Users\PabloTnT\source\repos\VentaMascotas\VentaMascotas\bin\Debug\VentaMascotas.pdb
+C:\Users\PabloTnT\source\repos\VentaMascotas\VentaMascotas\bin\Debug\Datos.dll
+C:\Users\PabloTnT\source\repos\VentaMascotas\VentaMascotas\bin\Debug\Modelos.dll
+C:\Users\PabloTnT\source\repos\VentaMascotas\VentaMascotas\bin\Debug\Datos.pdb
+C:\Users\PabloTnT\source\repos\VentaMascotas\VentaMascotas\bin\Debug\Modelos.pdb
+C:\Users\PabloTnT\source\repos\VentaMascotas\VentaMascotas\obj\Debug\VentaMascotas.csproj.CopyComplete
+C:\Users\PabloTnT\source\repos\VentaMascotas\VentaMascotas\obj\Debug\VentaMascotas.exe
+C:\Users\PabloTnT\source\repos\VentaMascotas\VentaMascotas\obj\Debug\VentaMascotas.pdb
