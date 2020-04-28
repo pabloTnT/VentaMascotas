@@ -72,6 +72,11 @@ namespace VentaMascotas
                 if (CantVenta > 0 && CantVenta <= Tienda.CantidadMascotas)
                 {
                     ValidaCantVenta = true;
+                }else if (Tienda.CantidadMascotas == 0)
+                {
+                    Console.WriteLine("Ya no quedan Mascotas disponibles, se finaliza el sistema...");
+                    Console.ReadKey();
+                    Environment.Exit(0);
                 }
                 else
                 {
